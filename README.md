@@ -31,36 +31,7 @@
 ---
 
 ## 📁 Project Structure
-TaskWave_project/
-├── client/                         # Frontend (React + Vite)
-│   ├── public/                     # Static assets
-│   ├── src/
-│   │   ├── components/             # Reusable React components (TaskCard, AddTaskModal, etc.)
-│   │   ├── pages/                  # Page-level components (Dashboard, Login, etc.)
-│   │   ├── services/               # Axios config and API functions
-│   │   ├── utils/                  # Utility functions
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── index.html
-│   ├── package.json
-│   └── tailwind.config.js
-│
-├── server/                         # Backend (Node.js + Express + Socket.IO)
-│   ├── config/                     # Firebase Admin SDK and env setup
-│   │   └── firebase.js
-│   ├── controllers/               # Business logic for task and auth APIs
-│   ├── middleware/                # Middleware for auth token checks
-│   ├── models/                    # Mongoose schemas (Task.js, User.js)
-│   ├── routes/                    # Express route handlers (taskRoutes.js, authRoutes.js)
-│   ├── socket/                    # Socket.IO logic (client connection, task broadcasts)
-│   ├── utils/                     # Helper functions if any
-│   ├── index.js                   # Main Express server entry
-│   ├── package.json
-│   └── .env                       # Environment variables (excluded via .gitignore)
-│
-├── .gitignore
-├── README.md
-└── LICENSE
+![image](https://github.com/user-attachments/assets/0e4405eb-8399-4ea9-ba48-14f04be206eb)
 
 ---
 
