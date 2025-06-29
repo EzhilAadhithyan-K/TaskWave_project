@@ -42,29 +42,32 @@
 ## 🚀 Getting Started
 
 ### 1. Clone the Repo
-
+```
 git clone https://github.com/EzhilAadhithyan-K/TaskWave_project.git
 cd TaskWave_project
-
+```
 ### 2. Setup the Backend
+```
 cd server
 npm install
-
+```
 Create a .env file in the server folder:
-
+```
 PORT=5000
 MONGO_URI=your_mongodb_uri
 FIREBASE_PROJECT_ID=your_firebase_project_id
-
+```
 
 Start the server:
+```
 npm start
-
+```
 ### 3. Setup the Frontend
+```
 cd client
 npm install
 npm run dev
-
+```
 The client runs on http://localhost:5173 and the server runs on http://localhost:5000.
 
 ### 📸 Screenshots
