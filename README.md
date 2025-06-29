@@ -26,6 +26,8 @@
 | Database  | MongoDB Atlas                        |
 | Auth      | Firebase Authentication              |
 | Hosting   | Vercel (client), Render (API server) |
+---
+
 ![readme](https://github.com/user-attachments/assets/8e71f9aa-7808-4f68-aa9d-014cb16ed9ea)
 
 ---
